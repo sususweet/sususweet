@@ -11,8 +11,7 @@
 ---
 
 <div>
-  <img src="https://github-readme-stats.vercel.app/api?username=sususweet&show_icons=true&theme=transparent" alt="logo" height="160" />
-  <a href="https://github.com/sususweet"><img src="https://api.githubtrends.io/user/svg/sususweet/langs?time_range=all_time&include_private=True&loc_metric=changed&theme=classic" width="40%"></a>
+  <a href="https://github.com/sususweet"><img src="./assets/svg/languages.svg", width="70%" /></a>
 </div>
 
 # My Contributions
